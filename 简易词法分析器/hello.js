@@ -1,4 +1,5 @@
 /* 将hello.pas文件进行词法分析，输出hello.dyd文件和hello.err文件储存分析结果以及错误信息*/
+/*基于node实现*/
 
 var fs = require('fs');//引入读文件模块
 var resultarr = [],//储存二元式
