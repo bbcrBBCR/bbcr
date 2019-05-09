@@ -1,3 +1,5 @@
+//爬取百度图片
+
 var Crawler=require('crawler');//爬虫模块
 var fs=require('fs');//创建目录以及写文件
 var request=require('request');//用于写图片
